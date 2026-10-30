@@ -1,4 +1,5 @@
 # apnacollege-demo.
 My git repository
 <br>
-Author - Prachi Jindal
+Author - Prachi (Apna College)
+
